@@ -7,9 +7,9 @@ A simple Hugo theme I plan on using for my personal website, [Based.Cooking](htt
 ```sh
 hugo new site new-site
 cd new-site
-git clone https://github.com/lukesmithxyz/lugo themes/lugo
-echo "theme = 'lugo'" >> config.toml
-cp themes/lugo/static/style.css static/
+git clone https://github.com/cyrilkharvey/cugo.git themes/cugo
+echo "theme = 'cugo'" >> config.toml
+cp themes/cugo/static/style.css static/
 ```
 
 ## stuff
